@@ -155,24 +155,9 @@
 - You will slowly start by learning Docker Fundamentals and move on to Kubenetes. 
 - You will master many kubectl commands over the process
 
-## Are there any course requirements or prerequisites?
-- You must have an AWS account to follow with me for hands-on activities.
-- You dont need to have any basic Docker or kubernetes knowledge to start this course.  
 
 
-## Who are your target students?
-- AWS Architects or Sysadmins or Developers who are planning to master Elastic Kubernetes Service (EKS) for running applications on Kubernetes
-- Any beginner who is interested in learning kubernetes on cloud using AWS EKS. 
-- Any beginner who is interested in learning Kubernetes DevOps and Microservices deployments on Kubernetes
-
-## Each of my courses come with
-- Amazing Hands-on Step By Step Learning Experiences
-- Real Implementation Experience
-- Friendly Support in the Q&A section
-- 30 Day "No Questions Asked" Money Back Guarantee!
 
 
-# Azure Kubernetes Service with Azure DevOps and Terraform 
 
-[![Image](https://stacksimplify.com/course-images/azure-kubernetes-service-with-azure-devops-and-terraform.png "Azure Kubernetes Service with Azure DevOps and Terraform")](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/?referralCode=2499BF7F5FAAA506ED42)
 
