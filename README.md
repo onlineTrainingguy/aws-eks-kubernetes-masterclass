@@ -171,12 +171,6 @@
 - Friendly Support in the Q&A section
 - 30 Day "No Questions Asked" Money Back Guarantee!
 
-## My Other AWS Courses
-- [Udemy Enroll](https://github.com/stacksimplify/udemy-enroll)
-
-## Stack Simplify Udemy Profile
-- [Udemy Profile](https://www.udemy.com/user/kalyan-reddy-9/)
-
 
 # Azure Kubernetes Service with Azure DevOps and Terraform 
 
